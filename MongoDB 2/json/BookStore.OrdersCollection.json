@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2c9"
+  },
+  "id": 1,
+  "customer_id": 1,
+  "order_date": "2023-01-15",
+  "total_amount": 125.99,
+  "status": "Shipped"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2ca"
+  },
+  "id": 2,
+  "customer_id": 2,
+  "order_date": "2023-01-20",
+  "total_amount": 75.5,
+  "status": "Delivered"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2cb"
+  },
+  "id": 3,
+  "customer_id": 3,
+  "order_date": "2023-01-25",
+  "total_amount": 210.25,
+  "status": "Processing"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2cc"
+  },
+  "id": 4,
+  "customer_id": 4,
+  "order_date": "2023-01-30",
+  "total_amount": 55,
+  "status": "Shipped"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2cd"
+  },
+  "id": 5,
+  "customer_id": 5,
+  "order_date": "2023-02-05",
+  "total_amount": 160.75,
+  "status": "Delivered"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2ce"
+  },
+  "id": 6,
+  "customer_id": 6,
+  "order_date": "2023-02-10",
+  "total_amount": 42.99,
+  "status": "Processing"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2cf"
+  },
+  "id": 7,
+  "customer_id": 7,
+  "order_date": "2023-02-15",
+  "total_amount": 95.2,
+  "status": "Shipped"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2d0"
+  },
+  "id": 8,
+  "customer_id": 8,
+  "order_date": "2023-02-20",
+  "total_amount": 30,
+  "status": "Delivered"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2d1"
+  },
+  "id": 9,
+  "customer_id": 9,
+  "order_date": "2023-02-25",
+  "total_amount": 180.5,
+  "status": "Processing"
+},
+{
+  "_id": {
+    "$oid": "654c192065471a462d7ba2d2"
+  },
+  "id": 10,
+  "customer_id": 10,
+  "order_date": "2023-03-01",
+  "total_amount": 65.25,
+  "status": "Shipped"
+}]

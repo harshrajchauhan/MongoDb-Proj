@@ -1,0 +1,11 @@
+_id,id,title,author_id,genre,published_year
+654c18b965471a462d7ba2af,1,The Great Gatsby,1,Classic,1925
+654c18b965471a462d7ba2b0,2,To Kill a Mockingbird,2,Fiction,1960
+654c18b965471a462d7ba2b1,3,Harry Potter and the Sorcerer's Stone,3,Fantasy,1997
+654c18b965471a462d7ba2b2,4,1984,4,Dystopian,1949
+654c18b965471a462d7ba2b3,5,Pride and Prejudice,5,Romance,1813
+654c18b965471a462d7ba2b4,6,The Catcher in the Rye,6,Coming-of-age,1951
+654c18b965471a462d7ba2b5,7,The Hobbit,7,Fantasy,1937
+654c18b965471a462d7ba2b6,8,Lord of the Flies,8,Dystopian,1954
+654c18b965471a462d7ba2b7,9,Moby-Dick,9,Adventure,1851
+654c18b965471a462d7ba2b8,10,The Alchemist,10,Adventure,1988

@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2af"
+  },
+  "id": 1,
+  "title": "The Great Gatsby",
+  "author_id": 1,
+  "genre": "Classic",
+  "published_year": 1925
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b0"
+  },
+  "id": 2,
+  "title": "To Kill a Mockingbird",
+  "author_id": 2,
+  "genre": "Fiction",
+  "published_year": 1960
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b1"
+  },
+  "id": 3,
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author_id": 3,
+  "genre": "Fantasy",
+  "published_year": 1997
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b2"
+  },
+  "id": 4,
+  "title": "1984",
+  "author_id": 4,
+  "genre": "Dystopian",
+  "published_year": 1949
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b3"
+  },
+  "id": 5,
+  "title": "Pride and Prejudice",
+  "author_id": 5,
+  "genre": "Romance",
+  "published_year": 1813
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b4"
+  },
+  "id": 6,
+  "title": "The Catcher in the Rye",
+  "author_id": 6,
+  "genre": "Coming-of-age",
+  "published_year": 1951
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b5"
+  },
+  "id": 7,
+  "title": "The Hobbit",
+  "author_id": 7,
+  "genre": "Fantasy",
+  "published_year": 1937
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b6"
+  },
+  "id": 8,
+  "title": "Lord of the Flies",
+  "author_id": 8,
+  "genre": "Dystopian",
+  "published_year": 1954
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b7"
+  },
+  "id": 9,
+  "title": "Moby-Dick",
+  "author_id": 9,
+  "genre": "Adventure",
+  "published_year": 1851
+},
+{
+  "_id": {
+    "$oid": "654c18b965471a462d7ba2b8"
+  },
+  "id": 10,
+  "title": "The Alchemist",
+  "author_id": 10,
+  "genre": "Adventure",
+  "published_year": 1988
+}]
